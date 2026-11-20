@@ -1,4 +1,4 @@
-<img src="images/profile.jpg" alt="Dhruv Sahnan" width="150" align="right">
+<img src="profile.jpg" alt="Dhruv Sahnan" width="150" align="right">
 
 # Hi, I'm Dhruv
 
